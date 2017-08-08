@@ -23,8 +23,37 @@ SetupOCXFile=
 [Comment]
 
 [Script]
-Function fun(a,b)
-TracePrint a&"+"&b
+Dim MyString
+Dim MyArray(4)
+MyArray(0) = "Mr."
+MyArray(1) = "John "
+MyArray(2) = "Doe "
+MyArray(3) = "III"
+MyString = Join(MyArray)'MyString °üº¬ "Mr. John Doe III"¡£
+TracePrint MyString
+
+
+Dim arr3
+arr3 = tee()
+TracePrint arr3(2)
+Function tee()
+	Dim a, b, Ar
+	
+a = 7531
+
+b = 223
+
+Ar = Array(a, b, 3, 4, 5)
+TracePrint Ar(0)
+tee = Ar
+
 End Function
-Call fun(1, 2)
-TracePrint fun(a,b)
+
+a = Array(2, 4)
+b=a
+a = Array(3, 5, 7)
+
+TracePrint a(2)
+TracePrint b(1)
+
+

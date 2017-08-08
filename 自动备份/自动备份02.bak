@@ -1,0 +1,50 @@
+[General]
+SyntaxVersion=2
+BeginHotkey=121
+BeginHotkeyMod=0
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=123
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+MacroID=1c093418-713e-4ca3-b309-d063abe49129
+Description=TrovebackF
+Enable=0
+AutoRun=0
+[Repeat]
+Type=1
+Number=1
+[SetupUI]
+Type=1
+QUI=Form1
+[Relative]
+SetupOCXFile=
+[Comment]
+
+[UIPackage]
+UEsDBBQAAgAIAJKO/0q+1MOZngMAAAgmAAAJABEAVUlQYWNrYWdlVVQNAAd5bn9ZeW5/WXluf1ntWUtPU0EUPrcF+gD7QChYQMpL0Y2auDRGSySaIBhaXbgwqViFWErTFoM/h4Ub3aAhbl25IDHRxD+gJv4Fd7Z+c+9cOxAI87hwbeQ0h2kvnfnmnDnPaZAc+vI5+W3zbfo77aHrFKRGM0JdwjOLs00JogD/3Gg2m+7j5gm1Ff0Gd/AzZGfdCQ6BI+AwOAo+Be4G94BjztFTHJzk8xonamxbWqQ1vOqUoVtUxlill6RCKViMu5Z1yHcr+Z2dH5GvVhDvb0ScZ/fpDl0mfQqTZbn4gUNw3VH83wzlac5gB1GOP8B9RxU/D31XqEjzVKBVjKrUSwEbP8ljr+y8Dj66/vsv8QkdH82uVVcN3I/Y/CsG8y0yI9P5prS99emnifwKLnsk83XjTiv+BXbVfLJn5sZKlnUK9JhKmnuIIf518zpFFj8gxL8HtEI1sO4OEhryBwX8RaAW6AktQA8lxdzrxv8evqYsfoeAnwf+BvK+wflbqvJ3Cuc/g+qjBK5q7qRPA79LkL+Fn8U5LNFzdXy7Xo4r6D+05/yXDPXP6vOwAn6YnBpepHe2L7QfhXzG/7W/zu20dDeXyRXKtUyuWF15ekT4U28eGc1/iMhTRfwp4q8Osfjbz31K1v4igv3PwffUvW63/Sf4erL40X39P4d9LEMPatlwEP5/mlgclsfvFvBvovqv2DmgCi5jD2pZKAX5I+T05bL4PQL+LGQvm8Uf5fzH4tW1v/KXkH2fYQ9M72Wd+K+MH9t1/gXov449MD1k7XNwM0HLNg6maeg/Ra17Lxn8uICftdd3/E8Gbx/7s/oU8RMCvmn8MK0/TSm7Xq+vlU3n61fw7d6/5GH5dbv21bE+O/4o+19SsL97wN8AeglVuA7FNPB79+Cz+msdcuvcwgxq4Iv35c79k779RWFBLnb6gO8cx/2TivwsX7q/K/jRf7J46daNXvSfGYyjJJ9/+8nf/jNF3vafY7YfyMs/QP72n2yvfvafZ8jb/nMY46SC/tMC/tb2x1d+3l+Z1h/u71SvwQsa8/3Ov0Gf8b24fxjHOKJgf0PUun/wov88x9eUxR8mb/vPKe7Tsvgj5G3/OY3xogL+WfK2/2TrTSjgj5K//WeGWv2nH/XnmCD/vH32q9B9Sbf/U8YfF/D9vr+69H7ZaP7VD2bzhzbz9D/TbdjbC+3bB8f/Ve1vgsT+i/VdNbyKyALqe0hr2P8kedr/WecxXlCIfw2PL01U5RfpD1BLAQIXCxQAAgAIAJKO/0q+1MOZngMAAAgmAAAJAAkAAAAAAAAAAAAAgAAAAABVSVBhY2thZ2VVVAUAB3luf1lQSwUGAAAAAAEAAQBAAAAA1gMAAAAA
+
+
+[Script]
+Dim Hwnd
+Event Form1.LoadOver   
+    //    Call RunApp("Trove.exe")   
+    //    Delay 1500   
+    //0表示忽略   
+    //下面这句是查找窗口类名("Trove.exe")或者标题(0),返回找到的句柄Hwnd   
+    //    Hwnd = Plugin.Window.Find("Notepad", 0)   
+    //    MsgBox "查找到的父窗口句柄为："& Hwnd  
+End Event
+Event Form1.button1.Click  
+    //    Delay 1500
+    //0表示忽略   
+    //下面这句是查找窗口类名("Notepad")或者标题(0),返回找到的句柄Hwnd   
+    Hwnd = Plugin.Window.Find("SDL_app", 0)   
+//    MsgBox "查找到的父窗口句柄为："& Hwnd   
+    //下面这句是根据父窗口句柄(Hwnd)查找子窗口匹配类名("Edit")或者匹配标题(0),返回找到匹配的句柄Hwnd   
+    //    Hwnd = Plugin.Window.FindEx(Hwnd, 0, "Edit", 0)   
+    //    MsgBox "查找到的子窗口句柄为："& Hwnd  
+    //向后台窗口句柄(变量：Hwnd)发送一个键盘(扫描码：70)按键
+    Call Plugin.Bkgnd.KeyPress(Hwnd, 70)
+End Event

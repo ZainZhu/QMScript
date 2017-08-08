@@ -1,0 +1,183 @@
+[General]
+SyntaxVersion=2
+BeginHotkey=121
+BeginHotkeyMod=0
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=122
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+MacroID=6c55070a-886f-4d8a-a5d0-6fe2013a44d5
+Description=TroveFishBack1.2
+Enable=1
+AutoRun=0
+[Repeat]
+Type=0
+Number=1
+[SetupUI]
+Type=1
+QUI=Form1
+[Relative]
+SetupOCXFile=
+[Comment]
+TroveFishBack
+
+[UIPackage]
+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
+
+
+[Script]
+Dim x_test, y_test
+Dim sRect
+DimEnv Hwnd
+Hwnd = Plugin.Window.Find("SDL_app", 0)
+//MsgBox Hwnd
+Dim ScreenW, ScreenH
+If Form1.CheckBoxScreen.Value = 1 Then 
+    ScreenW = Plugin.GetSysInfo.GetScreenResolutionX()
+    ScreenH = Plugin.GetSysInfo.GetScreenResolutionY()
+    Form1.InputBox304.Text = ScreenW
+//    Form1.InputBoxXL0.Text = 0: Form1.InputBoxYL0.Text = 0: Form1.InputBoxXR0.Text = ScreenW: Form1.InputBoxYR0.Text = ScreenH
+    Form1.InputBoxXL0.Text = ScreenW * 0.45 : Form1.InputBoxXR0.Text = ScreenW * 0.55 : Form1.InputBoxYL0.Text = ScreenH * 0.2 : Form1.InputBoxYR0.Text = ScreenH * 0.6
+Else 
+    Call SetClientRect()
+End If
+Dim x_ImportLeftTop, y_ImportLeftTop, x_ImportRightBottom, y_ImportRightBottom
+x_ImportLeftTop = Form1.InputBoxXL0.Text : y_ImportLeftTop = Form1.InputBoxYL0.Text : x_ImportRightBottom = Form1.InputBoxXR0.Text : y_ImportRightBottom = Form1.InputBoxYR0.Text
+Dim FlagForDelay
+FlagForDelay = 300
+Dim DX, DY, x_CurrentLeftTop, y_CurrentLeftTop, x_CurrentRightBottom, y_CurrentRightBottom, x_Find, y_Find
+//Number of unbinds
+Dim FindNone
+FindNone = 0
+//数值初始化
+DX=0:DY=0
+x_CurrentLeftTop = x_ImportLeftTop : y_CurrentLeftTop = y_ImportLeftTop : x_CurrentRightBottom = x_ImportRightBottom : y_CurrentRightBottom = y_ImportRightBottom
+Do
+    Call FindFishColor()
+    Form1.InputBoxTest1.Text = x_Find : Form1.InputBoxTest2.Text = y_Find
+    Rem CheckDAF
+    If DX = 0 or DY = 0 Then 
+        If x_Find = - 1  Then 
+            Delay 3000
+            Call FindFishColor()
+            If x_Find = - 1  Then 
+                // Msgbox "Goto ResetFishingAction"
+                // To determine whether the number of failures is too high
+                If FindNone > 3 Then 
+                    FindNone = 0
+                    Call CleanBackpack()
+                    //MsgBox "Error Fishing"
+                    
+                Else 
+                    FindNone = FindNone + 1
+                End If
+                Goto ResetFishingAction
+            End If 
+        End If
+        DX = x_Find : DY = y_Find
+        x_CurrentLeftTop = DX - 17 : y_CurrentLeftTop = DY - 10 : x_CurrentRightBottom = DX + 17 : y_CurrentRightBottom = DY + 10
+    End If
+    If x_Find = - 1  Then 
+        Form1.InputBox304.Text = "x_CurrentLeftTop: "&x_CurrentLeftTop
+        Delay 800 + FlagForDelay
+        If FlagForDelay = 300 Then 
+            FlagForDelay = 500
+        ElseIf FlagForDelay = 500 Then
+            FlagForDelay = 700
+        ElseIf FlagForDelay = 700
+            FlagForDelay = 900
+        Else 
+            FlagForDelay = 300
+        End If
+        Call PressF()
+        Delay (2600 + (1000 - FlagForDelay))
+        //Restart action
+        Rem ResetFishingAction
+        DX=0:DY=0
+        x_CurrentLeftTop = x_ImportLeftTop : y_CurrentLeftTop = y_ImportLeftTop : x_CurrentRightBottom = x_ImportRightBottom : y_CurrentRightBottom = y_ImportRightBottom
+        Call PressF()
+        Delay (3000+FlagForDelay)
+    End If
+    Delay 50
+Loop
+Sub FindFishColor()
+    If Form1.Slider1.Value = 0 Then 
+        FindColorEx x_CurrentLeftTop, y_CurrentLeftTop, x_CurrentRightBottom, y_CurrentRightBottom, "1414D1", 0, 0.8, x_Find, y_Find
+    Else 
+        ab = Plugin.Bkgnd.FindColorEx(Hwnd, x_CurrentLeftTop, y_CurrentLeftTop, x_CurrentRightBottom, y_CurrentRightBottom, "1414D1", 0, 0.8)
+        dim MyArray   
+        MyArray = Split(ab, "|")    
+        x_Find = Clng(MyArray(0)) : y_Find = Clng(MyArray(1))
+    End If
+End Sub
+Sub PressF()
+    If Form1.Slider1.Value = 0 Then 
+        KeyPress "F", 1
+    Else 
+        Call Plugin.Bkgnd.KeyPress(Hwnd, 70)
+    End If
+    Delay 1000
+End Sub
+Sub SetClientRect()
+If Form1.CheckBoxScreen.Value = 1 Then 
+    x_d = Plugin.GetSysInfo.GetScreenResolutionX()
+    y_d = Plugin.GetSysInfo.GetScreenResolutionY()
+    Form1.InputBox304.Text = "GetScreenResolution"
+//    Form1.InputBoxXL0.Text = 0: Form1.InputBoxYL0.Text = 0: Form1.InputBoxXR0.Text = ScreenW: Form1.InputBoxYR0.Text = ScreenH
+ 
+Else 
+    sRect = Plugin.Window.GetClientRect(Hwnd)
+    //    MsgBox "SetClientRect():" & sRect
+    dim ArrayRect
+    ArrayRect = Split(sRect, "|")
+    Form1.InputBoxXL0.Text = Clng(ArrayRect(0)) : Form1.InputBoxYL0.Text = Clng(ArrayRect(1)) : Form1.InputBoxXR0.Text = Clng(ArrayRect(2)) : Form1.InputBoxYR0.Text = Clng(ArrayRect(3))
+//    MsgBox sRect
+    x_d = Form1.InputBoxXR0.Text - Form1.InputBoxXL0.Text : y_d = Form1.InputBoxYR0.Text - Form1.InputBoxYL0.Text
+
+End If
+Form1.InputBoxXL0.Text = x_d * Form1.InputBoxXScaleL.Text : Form1.InputBoxXR0.Text = x_d * Form1.InputBoxXScaleR.Text : Form1.InputBoxYL0.Text = y_d * Form1.InputBoxYScaleT.Text : Form1.InputBoxYR0.Text = y_d * Form1.InputBoxYScaleB.Text
+    
+End Sub
+Sub CleanBackpack()
+If Form1.SliderSpaceRecovery.Value = 0 Then 
+	//Remove items
+	//Call RemoveItems()
+	Else 
+	//Decompose items
+	//Call DecomposeItems()
+End If
+End Sub
+Sub RemoveItems()
+	
+End Sub
+Sub DecomposeItems()
+	
+End Sub
+Event Form1.ButtonGetClientRect.Click
+    If Form1.CheckBoxScreen.Value = 1 Then 
+        MsgBox "在游戏界面直接启动脚本以获取分辨率"
+    Else 
+        Call SetClientRect()
+    End If
+    //    Call Plugin.ColorEx.PrintScreen(Form1.InputBoxXL0.Text, Form1.InputBoxYL0.Text, Form1.InputBoxXR0.Text, Form1.InputBoxYR0.Text)
+    //    MsgBox Clng(ArrayRect(0)) * 0.4287
+    Exit Event    //退出事件子程序   
+    MsgBox 1      //发现此对话框不会执行   
+End Event 
+Event Form1.LoadOver
+//    Hwnd = Plugin.Window.Find("SDL_app", 0)
+        MsgBox Hwnd
+    Call SetClientRect()
+End Event
+Event Form1.Label4.Click
+End Event
+Event Form1.InputBoxYR0.Change
+End Event
+Event Form1.InputBox304.Change
+
+End Event
+Event Form1.InputBoxXScaleL.Change
+
+End Event

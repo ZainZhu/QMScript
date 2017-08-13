@@ -28,7 +28,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQpjlQUKY5UFDs/XlUE8kf
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -40,91 +40,21 @@ Dim xyFind_Fish
 Dim TColorF, TColorB
 Dim Bag_Grid(9, 4), BagC(6), PopU(1)
 Dim dm,dm_ret
-
 //Initialization Date
 Mark_AntiOffline = 0 : FindNone = 0 : Mark_ErrFlag = 0
 TColorF = "1414D1" : TColorB = "5F4200"
 Hwnd = Plugin.Window.Find("SDL_app", 0)
-
 Call Plugin.Window.SetClientSize(Hwnd, 800, 450)
+Call InitializeBackpackGrid()
 Call dmJoin()
 Call SetSearchRange()
-
-
-
 Call InitSearchRange()
-Call InitializeBackpackGrid()
-
-//TracePrint dm.Ver()
-
-//Set dm = createobject("dm.dmsoft")
-//
-//TracePrint dm.Ver()
-
-//hwnd = dm.GetMousePointWindow()
-//dm_ret = dm.BindWindow(hwnd,"dx2","dx2","dx",0)
-//TracePrint "Bind Windows success:"&dm_ret
-
-
-//TracePrint dm.GetCursorShape()
-//TracePrint dm.GetCursorSpot()
-
-//Call RemoveItems()
-//Delay 200
-//Call Plugin.Bkgnd.LeftClick(Hwnd, PopU(0)(0), PopU(0)(1))
-//TracePrint PopU(0)(0) & "|" & PopU(0)(1)
-
-
-
-//Test Area
-//TracePrint "Script P1"
-//TracePrint "Script P2"
-//p = Array(2, 4)
-//Bag_Grid(0, 0) = p
-//TracePrint Bag_Grid(0,0)(0)
-//a = Array(2, 4)
-//TracePrint a(0)
-//TracePrint a(1)
-//Dim b(2, 2)
-//b(0, 0) = a
-//TracePrint b(0, 0)(0)
-//TracePrint b(0,0)(1)
-//Call OpenBackpack()
-//Form1.InputBox304.Text = "Consecutive Errors"
 //EndScript
-//rannum = RandomNumGen()
-//Delay 10000 * RandomNumGen()
-//
-
-//sRect = Plugin.Window.GetClientRect(Hwnd)
-//TracePrint sRect
-//sRect = Plugin.Window.GetWindowRect(Hwnd)
-//TracePrint sRect
-//Call RemoveItems()
-
-//sRect = Plugin.Window.GetClientRect(Hwnd)
-//TracePrint sRect
-//sRect = Plugin.Window.GetWindowRect(Hwnd)
-//TracePrint sRect
-Call RemoveItems()
-
-
-//            Delay 100
-//			Call Plugin.Bkgnd.MoveTo(Hwnd, PopU(0)(0), PopU(0)(1))
-
-//            dm.MoveTo PopU(0)(0), PopU(0)(1)
-//            TracePrint "PopU(0)(0)"&PopU(0)(0)
-//            TracePrint dm.GetCursorShape()
-//TracePrint dm.GetCursorSpot()
-//                        Delay 100
-//            dm.MoveTo PopU(0)(0), PopU(0)(1)
-//                        Delay 100
-//            dm.MoveTo PopU(0)(0), PopU(0)(1)
-//            Delay 200
-//Delay 100
-//            dm.LeftClick
-EndScript
-
+If Form1.CheckBoxRemove2.Value = 1 Then 
+    Call RemSign()
+    Form1.CheckBoxRemove2.Value = 0
+    EndScript
+End If
 Do
     xyFind_Fish = FindColorT(x_CurrentLeftTop, y_CurrentLeftTop, x_CurrentRightBottom, y_CurrentRightBottom, TColorF)
     Form1.InputBoxTest1.Text = xyFind_Fish(0) : Form1.InputBoxTest2.Text = xyFind_Fish(1)
@@ -161,35 +91,32 @@ Do
     If xyFind_Fish(0) = - 1  Then 
         //Set the response delay
         Delay 1100 + 600*RandomNumGen()
-        Call PressF()
+//        Call Plugin.Bkgnd.KeyPress(Hwnd, 70)
+        dm.KeyPressChar "F"
         //Set the next shot delay
         Delay 2600 + 1000 * RandomNumGen()
         Call AntiOffline()
         //Reboot action group
         Rem ResetFishingAction
         Call InitSearchRange()
-        Call PressF()
-        TracePrint "Start PressF()"
+//        Call Plugin.Bkgnd.KeyPress(Hwnd, 70)
+        dm.KeyPressChar "F"
         Delay 8000
     End If
     Delay 50
 Loop
-
 Sub OnScriptExit()
-	dm_ret = dm.UnBindWindow()
-	TracePrint "dm.UnBindWindow: "&dm_ret
+    dm_ret = dm.UnBindWindow()
+    TracePrint "dm.UnBindWindow: "&dm_ret
 End Sub
-
 Sub InitSearchRange()
     DX = 0 : DY = 0
     x_CurrentLeftTop = Form1.InputBoxXL0.Text : y_CurrentLeftTop = Form1.InputBoxYL0.Text : x_CurrentRightBottom = Form1.InputBoxXR0.Text : y_CurrentRightBottom = Form1.InputBoxYR0.Text
 End Sub
-
 Function RandomNumGen()
     Randomize
     RandomNumGen = Rnd()
 End Function
-
 Function FindColorT(x1, y1, x2, y2, TargetColor)
     Dim ab, MyArray,xf,yf
     ab = Plugin.Bkgnd.FindColorEx(Hwnd, x1, y1, x2, y2, TargetColor, 0, 0.9)
@@ -199,25 +126,6 @@ Function FindColorT(x1, y1, x2, y2, TargetColor)
     //    TracePrint "FindColorT:xf and yf is [" & xf & ", " & yf & "}"
     FindColorT = Array(xf, yf)
 End Function
-
-Sub PressF()
-    //    If Form1.Slider1.Value = 0 Then 
-    //        KeyPress "F", 1
-    //    Else 
-    Call Plugin.Bkgnd.KeyPress(Hwnd, 70)
-    //    End If
-    //    Delay 1000
-End Sub
-
-Sub PressKey(key)
-    If Form1.Slider1.Value = 0 Then 
-        //The background key method used here may be problematic
-        Call Plugin.Bkgnd.KeyPress(Hwnd, key)
-    Else 
-        Call Plugin.Bkgnd.KeyPress(Hwnd, key)
-    End If
-End Sub
-
 Sub SetSearchRange()
     Dim x_d, y_d
     If Form1.CheckBoxScreen.Value = 1 Then 
@@ -236,9 +144,7 @@ Sub SetSearchRange()
     End If
     x_d = Form1.InputBoxWindowWidth.Text : y_d = Form1.InputBoxWindowHight.Text
     Form1.InputBoxXL0.Text = x_d * Form1.InputBoxXScaleL.Text : Form1.InputBoxXR0.Text = x_d * Form1.InputBoxXScaleR.Text : Form1.InputBoxYL0.Text = y_d * Form1.InputBoxYScaleT.Text : Form1.InputBoxYR0.Text = y_d * Form1.InputBoxYScaleB.Text
-    
 End Sub
-
 Sub CleanBackpack()
     //TODO
     If Form1.SliderSpaceRecovery.Value = 0 Then 
@@ -249,13 +155,10 @@ Sub CleanBackpack()
         Call DecomposeItems()
     End If
 End Sub
-
-
 Sub InitializeBackpackGrid()
     Dim x, y, i, j, g
     i=0:j=0
     x = 610 : y = 55
-    
     While i < 10
         While j < 5
             g = Array(x, y)
@@ -269,14 +172,12 @@ Sub InitializeBackpackGrid()
         x = 610
         i=i+1
     Wend
-    
     g = Array(Bag_Grid(0, 0)(0) - 46, Bag_Grid(0, 0)(1) + 22)
     BagC(0) = g
     g = Array(BagC(0)(0), BagC(0)(1) + 33)
     BagC(1) = g
     g = Array(BagC(1)(0), BagC(1)(1) + 33)
     BagC(2) = g
-    
     g=Array(Bag_Grid(9, 0)(0) + 5, Bag_Grid(9, 0)(1) + 44)
     BagC(3)=g
     g = Array(BagC(3)(0)+42, BagC(3)(1))
@@ -293,12 +194,8 @@ Sub InitializeBackpackGrid()
     PopU(0) = g
     g = Array(456, 116)
     PopU(1) = g
-    
-    
 End Sub
-
 Sub RemoveItems()
-    //TODO
     Call OpenBackpack()
     Delay 100
     dm.MoveTo BagC(0)(0), BagC(0)(1)
@@ -311,7 +208,7 @@ Sub RemoveItems()
             dm.MoveTo Bag_Grid(i, j)(0), Bag_Grid(i, j)(1)
             Delay 100
             dm.LeftDown
-//            Call Plugin.Bkgnd.LeftDown(Hwnd, Bag_Grid(i, j)(0), Bag_Grid(i, j)(1))
+            //            Call Plugin.Bkgnd.LeftDown(Hwnd, Bag_Grid(i, j)(0), Bag_Grid(i, j)(1))
             TracePrint Bag_Grid(i, j)(0) & "|" & Bag_Grid(i, j)(1)
             dm.MoveTo BagC(6)(0), BagC(6)(1)
             Delay 100 
@@ -320,17 +217,39 @@ Sub RemoveItems()
             dm.MoveTo PopU(0)(0), PopU(0)(1)
             Delay 100
             dm.LeftClick
-//            Call Plugin.Bkgnd.LeftUp(Hwnd, BagC(6)(0), BagC(6)(1))
-//            Call Plugin.Bkgnd.LeftClick(Hwnd, PopU(0)(0), PopU(0)(1))
-            
+            //            Call Plugin.Bkgnd.LeftUp(Hwnd, BagC(6)(0), BagC(6)(1))
+            //            Call Plugin.Bkgnd.LeftClick(Hwnd, PopU(0)(0), PopU(0)(1))
         Next
     Next
 End Sub
-
-Sub DecomposeItems()
-//TODO
+Sub RemSign()
+    //TODO
+    Call OpenBackpack()
+    Delay 100
+    dm.MoveTo BagC(1)(0), BagC(1)(1)
+    Delay 100
+    dm.LeftClick
+    Dim i, j
+    For i = 2 To 8
+        For j = 0 To 4
+            Delay 400
+            dm.MoveTo Bag_Grid(i, j)(0), Bag_Grid(i, j)(1)
+            Delay 100
+            dm.LeftDown
+            TracePrint Bag_Grid(i, j)(0) & "|" & Bag_Grid(i, j)(1)
+            dm.MoveTo BagC(6)(0), BagC(6)(1)
+            Delay 100 
+            dm.LeftUp 
+            Delay 100
+            dm.MoveTo PopU(0)(0), PopU(0)(1)
+            Delay 100
+            dm.LeftClick  
+        Next
+    Next
 End Sub
-
+Sub DecomposeItems()
+    //TODO
+End Sub
 Function OpenBackpack()
     //Make sure the backpack is open
     //    Dim x0, y0, x1, y1, x2, y2
@@ -351,7 +270,6 @@ Function OpenBackpack()
     Call Plugin.Bkgnd.KeyPress(Hwnd, 66)
     Delay 1000
 End Function
-
 Sub AntiOffline()
     //Perform some operations to prevent the network from disconnecting
     TracePrint "AntiOffline" & Mark_AntiOffline
@@ -371,7 +289,6 @@ Sub AntiOffline()
         Mark_AntiOffline = Mark_AntiOffline + 1
     End If
 End Sub
-
 Sub dmJoin()
     Dim need_ver, ver, ws, last_error
     need_ver = "3.1233"
@@ -384,7 +301,6 @@ Sub dmJoin()
         ws.run "regsvr32 c:\test_game\dm.dll /s"
         set ws=nothing
         Delay 1500
-        
         set dm = createobject("dm.dmsoft")
         ver = dm.Ver()
         if ver <> need_ver then
@@ -395,13 +311,12 @@ Sub dmJoin()
     end if
     // The plugin is registered<<<<<<<<<<<<<<<
     dm.SetPath "c:\test_game"
-    
     // Bind
     TracePrint "BindWindow:" & Hwnd
     Call Plugin.Window.Active(Hwnd)
     dm_ret = dm.BindWindow(Hwnd, "dx", "dx", "dx", 4)
     TracePrint "BindWindow Success:"&dm_ret
-//MsgBox "BindWindow Success:"
+    //MsgBox "BindWindow Success:"
     // Check the binding return value
     if dm_ret = 0 then
         last_error = dm.GetLastError()
@@ -410,7 +325,6 @@ Sub dmJoin()
             // Have the UAC open, try to close
             if dm.CheckUAC() = 1 then
                 if dm.SetUAC(0) = 1 then
-
                     // After you turn off UAC, you must reboot the system to take effect
                     messagebox "Has been closed system UAC settings, you must restart the system to take effect.Please reboot the system manually."
                     //dm.ExitOs 2
@@ -422,15 +336,13 @@ Sub dmJoin()
         endscript
     end if
 End Sub
-
 Sub DmPluginInstall()
-	set ws=createobject("Wscript.Shell")
+    set ws=createobject("Wscript.Shell")
     ws.run "regsvr32 atl.dll /s"
     set ws=nothing
     PutAttachment "c:\test_game","*.*"
     PutAttachment ".\Plugin" ,"RegDll.dll"
 End Sub
-
 Event Form1.ButtonGetClientRect.Click
     Call Plugin.Window.SetClientSize(Hwnd, 800, 450)
     Call SetSearchRange()
@@ -442,7 +354,6 @@ Event Form1.ButtonGetClientRect.Click
     Exit Event  
     MsgBox 1
 End Event 
-
 Event Form1.LoadOver
     //TracePrint "Form1.LoadOver Begin"
     Hwnd = Plugin.Window.Find("SDL_app", 0)
@@ -450,11 +361,9 @@ Event Form1.LoadOver
     Call SetSearchRange()
     //    TracePrint "Form1.LoadOver Over"
 End Event
-
 Event Form1.ButtonPlugIn.Click
     Call DmPluginInstall()
 End Event
-
 Event Form1.ButtonPressB.Click
     Call OpenBackpack()
 End Event
